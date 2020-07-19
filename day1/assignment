@@ -1,1 +1,46 @@
+                           Assignment 1(Blockchain)
+
+1.what is your understanding of blockchain?
+ It as a chain or records stored in the forms of blocks which are controlled by no single authority
+ A Blockchain is a type of diary or spreadsheet containing information about transactions. Each 
+ transaction generates a hash.Each block refers to the previous block and together make the 
+ Blockchain and it is a mix of Technology distributed database and cryptography where data is 
+ unchangeable
+ Tamper-proof
+ Immutable--immortal,it can't be changed
+ verified
+
+
+2.What is the core problem blockchain trying to solve? 
+-----problem with internet-----
+*Authenticity--fake news
+*security
+*need of powerful third party for thrust?
+for solving three problems blockchain came into picture
+
+
+3.What are the few features which blockchain will give you?
+*avoid hacking--connot be corrupted--"Immutability"
+*decentralized
+*security
+*data transparency
+*verifiable
+*tamper-proof
+*unchangable
+*no third-party
+*user control
+*Authentic nature
+*consensus
+
+4.what all things does a blockchain contains?
+1. Block number
+2. Transaction records
+3. Previous block Signature
+4. Mining key
+
+5.How is verifiability of block chain attained?
+The Blockchain is verifiable because of the distributed ledgers and cryptography.
+the data is distributed to various users it generate a unique fingerprint key for each data.
+By checking this key among various users data can be verified.
+
 
